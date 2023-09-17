@@ -1,4 +1,4 @@
-MYCLOUD OUTPUT
+MYCLOUD OUTPUT 1
 
 root@NAS ~ # cat /proc/net/bonding/*
 Ethernet Channel Bonding Driver: v3.7.1 (April 27, 2011)
